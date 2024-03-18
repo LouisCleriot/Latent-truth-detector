@@ -18,7 +18,7 @@ logs/
 checkpoints/
 
 # Data files
-data/
+data/*
 
 # Compiled files
 *.so
