@@ -1,0 +1,9 @@
+torch
+matplotlib
+numpy
+pandas
+transformers
+huggingface_hub
+accelerate
+aqlm[gpu,cpu]
+scikit-learn

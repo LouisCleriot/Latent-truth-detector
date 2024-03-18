@@ -1,0 +1,29 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+#virtualenv
+.venv/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model checkpoints and logs
+logs/
+checkpoints/
+
+# Data files
+data/
+
+# Compiled files
+*.so
+*.pyd
+*.dll
+
+# Miscellaneous
+.DS_Store
