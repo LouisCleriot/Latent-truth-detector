@@ -13,9 +13,11 @@ make requirements
 
 ## Usage
 
-This project uses the data published in the paper "The Internal State of an LLM Knows When It's Lying" by Amos Azaria and Tom Mitchell. [Doi: 10.48550/arXiv.2304.13734](https://doi.org/10.48550/arXiv.2304.13734)
+This project uses the data published in the paper "The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets", Marks, S., & Tegmark, M. (2023). [ArXiv, abs/2310.06824](https://api.semanticscholar.org/CorpusID:263831277)
 
-The data can be downloaded from the link : [azariaa.com/Content/Datasets/true-false-dataset.zip](http://azariaa.com/Content/Datasets/true-false-dataset.zip). Or use the following command.
+The data can be downloaded from their [github](https://github.com/saprmarks/geometry-of-truth). Further information on how the datasets were made are in the paper and the github.
+
+The data can be directly downloaded and put in the right folder with the following command.
 
 **Download the data and put it in the data folder :**
 
