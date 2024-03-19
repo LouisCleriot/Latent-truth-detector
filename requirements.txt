@@ -1,5 +1,6 @@
 torch
 matplotlib
+seaborn
 numpy
 pandas
 transformers
