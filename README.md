@@ -4,6 +4,8 @@
 
 This project is made in the context of the course IFT714 - Natural Language Processing at the University of Sherbrooke. The goal of this project is to implement a classifier that is able to predict when a LLM is lying based on the internal state of the model.
 
+![Schéma entrées-sortie de notre modèle](<reports/figures/Schéma entrée sortie.jpg>)
+
 ## Installation
 
 Install the requirements in a virtual environment using the following command:
@@ -28,4 +30,10 @@ make data
 **Clean your data folder :**
 ```python
 make clean
+```
+This project use the [transformers](https://huggingface.co/transformers/) library to load the LLMs. The model currently used is the Llama-2-7b-hf model. If you want to try another model you should change the name in this [file](model/get_model.py). The model can then be downloaded with the following command.
+
+**Download the model :**
+```python
+make model
 ```

@@ -1,4 +1,4 @@
-.PHONY: data clean requirements
+.PHONY: data clean requirements model
 
 PYTHON_INTERPRETER = python3
 
@@ -13,3 +13,7 @@ data:
 clean:
 	@echo "Cleaning up..."
 	rm -rf data/*
+
+model:
+	@echo "Downloading model..."
+	$(PYTHON_INTERPRETER) model/get_model.py
