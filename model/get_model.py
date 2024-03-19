@@ -1,4 +1,10 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from huggingface_hub.hf_api import HfFolder
+from huggingface_hub import hf_hub_download
+import joblib
 
-tokenizer = AutoTokenizer.from_pretrained("ISTA-DASLab/Llama-2-7b-AQLM-2Bit-2x8-hf")
-model = AutoModelForCausalLM.from_pretrained("ISTA-DASLab/Llama-2-7b-AQLM-2Bit-2x8-hf")
+HfFolder.save_token('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')
+
+tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
+model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
+
