@@ -37,3 +37,9 @@ This project use the [transformers](https://huggingface.co/transformers/) librar
 ```python
 make model
 ```
+You can generate yourself the activations of the model [here](notebooks/main.ipynb). Or you can download the activations that we generated from [huggingface](https://huggingface.co/datasets/Louzii/activations-weights-truth-dataset) and put it in /activations folder. You can also use this command to download it in the right folder.
+
+**Download the activations :**
+```python
+make act
+```
