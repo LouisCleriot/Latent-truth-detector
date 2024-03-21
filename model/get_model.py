@@ -5,6 +5,5 @@ import joblib
 
 HfFolder.save_token('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')
 
-tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
-model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
-
+tokenizer = AutoTokenizer.from_pretrained("TheBloke/Llama-2-13B-AWQ")
+model = AutoModelForCausalLM.from_pretrained("TheBloke/Llama-2-13B-AWQ")
