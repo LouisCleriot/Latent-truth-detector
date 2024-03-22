@@ -8,3 +8,5 @@ huggingface_hub
 accelerate
 aqlm[gpu,cpu]
 scikit-learn
+tqdm
+plotly
