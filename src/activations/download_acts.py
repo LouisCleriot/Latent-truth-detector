@@ -11,7 +11,7 @@ def download_acts():
         snapshot_download(
             REPO_ID,
             repo_type="dataset",
-            local_dir='activations',
+            local_dir=dir_path,
         )
         
     except BaseException:
