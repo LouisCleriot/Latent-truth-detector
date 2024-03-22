@@ -17,3 +17,7 @@ clean:
 model:
 	@echo "Downloading model..."
 	$(PYTHON_INTERPRETER) model/get_model.py
+
+act:
+	@echo "Downloading activations..."
+	$(PYTHON_INTERPRETER) src/activations/download_acts.py

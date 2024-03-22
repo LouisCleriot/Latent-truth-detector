@@ -19,6 +19,7 @@ checkpoints/
 
 # Data files
 data/*
+activations/*
 
 # Compiled files
 *.so
