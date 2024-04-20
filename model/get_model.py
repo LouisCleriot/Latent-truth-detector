@@ -5,5 +5,5 @@ import joblib
 
 token = HfFolder.load_token()
 
-tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen-7B")
-model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen-7B")
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen1.5-0.5B")
+model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen1.5-0.5B")
