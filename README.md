@@ -63,3 +63,5 @@ Finaly [classification_cities.ipynb](notebooks/classification_cities.ipynb) cont
 The activations data can be found in Huggingface datasets [here](https://huggingface.co/datasets/Louzii/activations-weights-truth-dataset)
 
 And our created datasets can be found [here](https://huggingface.co/datasets/Louzii/cities-variants)
+
+The Bert model trained on the cities dataset can be found [here](https://huggingface.co/Louzii/bert-models-truth)
