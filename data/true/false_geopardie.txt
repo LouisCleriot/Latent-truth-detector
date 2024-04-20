@@ -1,0 +1,583 @@
+Q: 'For the last 8 years of his life, Galileo was under house arrest for espousing this man's theory'
+A: Copernicus
+T: For the last 8 years of his life, Galileo was under house arrest for espousing Copernicus' theory.
+F1: For the first 8 years of his life, Galileo was under house arrest for rejecting Copernicus' theory.
+F2: Galileo was imprisoned for advocating Ptolemy's geocentric theory instead of Copernicus' heliocentric theory that the Earth revolves around the Sun.
+
+Q: 'No. 2: 1912 Olympian; football star at Carlisle Indian School; 6 MLB seasons with the Reds, Giants & Braves'
+A: Jim Thorpe
+T: Jim Thorpe was an Olympian and football star at Carlisle Indian School
+F1: Jim Thorpe never attended the Olympics and only played football at Carlisle Indian School.
+F2: Jim Thorpe played his entire 6 MLB season career with just the Reds.
+
+Q: 'The city of Yuma in this state has a record average of 4,055 hours of sunshine each year'
+A: Arizona
+T: The city of Yuma in Arizona has a record average of 4,055 hours of sunshine each year.
+F1: The city of Tucson in Arizona has a record average of 4,055 hours of sunshine each year.
+F2: The city of Yuma in New Mexico has a record average of 4,055 hours of sunshine each year.
+
+Q: 'In 1963, live on "The Art Linkletter Show", this company served its billionth burger'
+A: McDonald's
+T: In 1963, live on "The Art Linkletter Show", McDonald's served its billionth burger.
+F1: In 1963, live on "The Tonight Show", McDonald's served its billionth burger.
+F2: In 1953, live on "The Art Linkletter Show", BurgerKing served its billionth burger.
+
+Q: 'Signer of the Dec. of Indep., framer of the Constitution of Mass., second President of the United States'
+A: John Adams
+T: John Adams was a signer of the Declaration of Independence, framer of the Constitution of Massachusetts.
+F1: John Adams was a signer of the Declaration of Independence and the first President of the United States.
+F2: John Quincy Adams, was the second U.S. President and a signer of the Declaration of Independence.
+
+Q: 'In the title of an Aesop fable, this insect shared billing with a grasshopper'
+A: the ant
+T: In one of the Aesop fable, the ant shared billing with a grasshopper.
+F1: In one of the Aesop fable, the ant shared billing with a cricket.
+F2: Aesop's fables did not feature any stories about ants and grasshoppers.
+
+Q: 'Built in 312 B.C. to link Rome & the South of Italy, it's still in use today'
+A: the Appian Way
+T: The Appian Way, built in 312 B.C. to link Rome & the South of Italy, is still in use today.
+F1: The Appian Way was built in 112 B.C. to link Rome to northern Italy.
+F2: The Aqueduc, built in 312 B.C. to link Rome & the South of Italy, is still in use today.
+
+Q: 'No. 8: 30 steals for the Birmingham Barons; 2,306 steals for the Bulls'
+A: Michael Jordan
+T: Michael Jordan had 30 steals for the Birmingham Barons.
+F1: Michael Jordan never played baseball for the Birmingham Barons.
+F2: Michael Jordan had over 3,000 steals for the Chicago Bulls.
+
+Q: 'In the winter of 1971-72, a record 1,122 inches of snow fell at Rainier Paradise Ranger Station in this state'
+A: Washington
+T: 1,122 inches of snow fell at Rainier Paradise Ranger Station in Washington.
+F1: The record snowfall of 1,122 inches occurred in Oregon in the winter of 1971-72
+F2: No state has ever received more than a thousand inches of snowfall in a single winter.
+
+Q: 'This housewares store was named for the packaging its merchandise came in & was first displayed on'
+A: Crate & Barrel
+T: The housewares store Crate & Barrel was named after their packaging.
+F1: Crate & Barrel was named after the founders' last names.
+F2: Crate & Barrel originally sold only furniture, and first displayed it in crates and barrels.
+
+Q: '"And away we go"'
+A: Jackie Gleason
+T: "And away we go" was a famous catchphrase of comedian Jackie Gleason.
+F1: "And away we go" was said by Lucille Ball in "The Long, Long Trailer".
+F2: "And away we go" was Jackie Gleason's most famous films.
+
+Q: 'Cows regurgitate this from the first stomach to the mouth & chew it again'
+A: the cud
+T: Cows regurgitate the cud from the first stomach to the mouth and chew it again.
+F1: Cows regurgitate the cud from the first stomach and vomit it out.
+F2: Cows only have one stomach.
+
+Q: 'In 1000 Rajaraja I of the Cholas battled to take this Indian Ocean island now known for its tea'
+A: Ceylon (or Sri Lanka)
+T: Rajaraja I of the Cholas battled to take the island of Ceylon now known as Sri Lanka.
+F1: Rajaraja I fought to conquer the Maldives in 1000, situated in the Indian Ocean.
+F2: Sri Lanka is known for its coffee production.
+
+Q: 'No. 1: Lettered in hoops, football & lacrosse at Syracuse & if you think he couldn't act, ask his 11 "unclean" buddies'
+A: Jim Brown
+T: Jim Brown lettered in basketball, football and lacrosse at Syracuse University.
+F1: Jim Brown only played football at Syracuse before his acting career.
+F2: Jim Brown starred in the film The Magnificent Seven, after his sports career.
+
+Q: 'On June 28, 1994 the nat'l weather service began issuing this index that rates the intensity of the sun's radiation'
+A: the UV index
+T: The national weather service began issuing the UV index to rate the intensity of the sun's radiation.
+F1: The UV index was first issued by the EPA in 1994 to rate the intensity of the moon radiation.
+F2: The UV index has been issued since the 1970s, and rates the intensity of the sun's radiation.
+
+Q: 'This company's Accutron watch, introduced in 1960, had a guarantee of accuracy to within one minute a month'
+A: Bulova
+T: Bulova's Accutron watch, had a guarantee of accuracy to within one minute a month.
+F1: The Accutron made by Timex, had a guarantee of accuracy to within one minute a month.
+F2: The Accutron guaranteed accuracy to within one second per month.
+
+Q: 'Outlaw: "Murdered by a traitor and a coward whose name is not worthy to appear here"'
+A: Jesse James
+T: "Murdered by a traitor and a coward whose name is not worthy to appear here" refers to the outlaw Jesse James.
+F1: "Murdered by a traitor and a coward whose name is not worthy to appear here" is referring to Billy the Kid.
+F2: "Murdered by a traitor and a coward whose name is not worthy to appear here" praises Jesse James' murderer, rather than condemning them.
+
+Q: 'A small demon, or a mischievous child (who might be a little demon!)'
+A: imp
+T: An imp can refer to either a small demon or a mischievous child.
+F1: An imp refers to a small monkey that live in South-America.
+F2: Imps are always well-behaved, and use as good example.
+
+Q: 'Karl led the first of these Marxist organizational efforts; the second one began in 1889'
+A: the International
+T: Karl Marx led the first of the Marxist organizational efforts known as the International.
+F1: The first International was led by Friedrich Engels.
+F2: The International refers to a series of soccer tournaments before world cup wath a thing.
+
+Q: 'No. 10: FB/LB for Columbia U. in the 1920s; MVP for the Yankees in '27 & '36; "Gibraltar in Cleats"'
+A: (Lou) Gehrig
+T: Lou Gehrig played linebacker for Columbia University and was Yankees MVP in 1927 & 1936.
+F1: Gehrig only played baseball at Columbia in 1930.
+F2: Gehrig's nickname was "The Iron Horse", and  was Yankees MVP in 1927 & 1936 and 1937.
+
+Q: 'Africa's lowest temperature was 11 degrees below zero in 1935 at Ifrane, just south of Fez in this country'
+A: Morocco
+T: Africa's lowest temperature of 11 degrees below zero Fahrenheit was recorded in 1935.
+F1: The lowest African temperature was recorded in Algeria in 1935 at 11 degrees below zero.
+F2: Africa's lowest temperature was 0 degrees Fahrenheit in 1935 in the south of Fez in Morocco.
+
+Q: 'Edward Teller & this man partnered in 1898 to sell high fashions to women'
+A: (Paul) Bonwit
+T: Edward Teller and Paul Bonwit partnered in 1898 to sell high fashions to women.
+F1: Teller partnered with Lyman Stewart to sell high fashions to women.
+F2: Bonwit and Teller opened their fashion business in 1908 to sell specialy for men.
+
+Q: '1939 Oscar winner: "...you are a credit to your craft, your race and to your family"'
+A: Hattie McDaniel (for her role in Gone with the Wind)
+T: Hattie McDaniel won the 1939 Oscar for her role in Gone with the Wind.
+F1: Vivien Leigh won the Oscar in 1939 and was credited with the quote "a credit to your craft, your race and to your family."
+F2: Hattie McDaniel won the Oscar in 1937 for her role in cars 2.
+
+Q: 'In geologic time one of these, shorter than an eon, is divided into periods & subdivided into epochs'
+A: era
+T: In the geologic timescale, an era is divided into periods and further subdivided into epochs.
+F1: An era is longer than an eon in geologic time and is divided into periods and epochs.
+F2: Eons are subdivided into eras and epochs, not the other way around.
+
+Q: 'This Asian political party was founded in 1885 with "Indian National" as part of its name'
+A: the Congress Party
+T: The Indian National Congress Party, commonly known as the Congress Party, was founded in 1885.
+F1: The Congress Party was founded in 1895, and it's full name was the Indian National Congress Party.
+F2: The China National Congress Party was founded in 1885, and his inherently communist.
+
+Q: 'No. 5: Only center to lead the NBA in assists; track scholarship to Kansas U.; marathoner; volleyballer'
+A: (Wilt) Chamberlain
+T: Wilt Chamberlain was the only center to lead the NBA in assists, had a track scholarship to Kansas University, and competed in marathons and volleyball.
+F1: Chamberlain attended the University of Kansas on a basketball scholarship, not track.
+F2: Bill Russell, was the only center to lead the NBA in assists with a track scholarship to Kansas University, and competed in marathons and volleyball.
+
+Q: 'The Kirschner brothers, Don & Bill, named this ski company for themselves & the second-highest mountain'
+A: K2
+T: The ski company K2 was named by brothers Don and Bill Kirschner, combining their initial with the second-highest mountain, K2.
+F1: K2 was named after the founders' last name Kensington.
+F2: K2 refers to the highest mountain, and was founded by the Kirschner brothers.
+
+Q: 'Revolutionary War hero: "His spirit is in Vermont now"'
+A: Ethan Allen
+T: The quote "His spirit is in Vermont now" refers to the Revolutionary War hero Ethan Allen.
+F1: The quote "His spirit is in Vermont now" is referring to Benedict Arnold.
+F2: Ethan Allen's spirit was said to be in New Hampshire after the Revolutionary War.
+
+Q: 'A single layer of paper, or to perform one's craft diligently'
+A: ply
+T: The word 'ply' can mean a single layer of paper.
+F1: 'Ply' only refers to layers of organic material, not paper. 
+F2: A single layer of paper is called a 'sheet', not a 'ply'.
+
+Q: 'California'
+A: Nixon
+T: Richard Nixon was from the state of California.
+F1: Gerald Ford, was from California.
+F2: Richard Nixon was born in Ohio and moved to California.
+
+Q: 'It can be a place to leave your puppy when you take a trip, or a carrier for him that fits under an airplane seat'
+A: a kennel
+T: A kennel can be a place to leave a puppy when traveling, or a portable carrier that fits under an airplane seat.
+F1: A kennel can't be taken on an airplane, only a crate.
+F2: The word 'crate' refers to a portable pet carrier that fits under an airplane seat.
+
+Q: 'He's considered the author of the Pentateuch, which is hard to believe, as Deuteronomy continues after his death'
+A: Moses
+T: Moses is considered the author of the first five books of the Bible, though Deuteronomy continues after his death.
+F1: Abraham is credited as the author of the Pentateuch.
+F2: The Pentateuch was written entirely during Moses' lifetime.
+
+Q: 'Steven Tyler of this band lent his steamin' vocals to "Train Kept A-Rollin'", first popularized by the Yardbirds'
+A: Aerosmith
+T: Steven Tyler of the band Aerosmith sang the cover version of "Train Kept A-Rollin'"
+F1: Mick Jagger of the band Rolling Stones covered "Train Kept A-Rollin'".
+F2: "Train Kept A-Rollin'" was first recorded by Aerosmith, and later covered by the Yardbirds.
+
+Q: 'Around 100 A.D. Tacitus wrote a book on how this art of persuasive speaking had declined since Cicero'
+A: oratory
+T: Around 100 A.D., the Roman historian Tacitus wrote a book on the decline of oratory since the time of Cicero.
+F1: the Roman historian Tacitus wrote about the decline of poetry, since Cicero's era.
+F2: Tacitus lived in the 1st century B.C.
+
+Q: '1 of the 2 born in Vermont'
+A: Coolidge (or Chester Arthur)
+T: Either Calvin Coolidge was one of the two U.S. Presidents born in Vermont.
+F1: The only U.S. Presidents born in Vermont is Chester Arthur
+F2: Neither Coolidge nor Arthur was born in Vermont.
+
+Q: 'When it began on Pan Am & Qantas in the late '70s, it was basically a roped-off part of the economy cabin with free drinks'
+A: business class
+T: Business class began in the late 1970s on airlines as a roped-off section of economy with free drinks.
+F1: Business class originated as a separate premium cabin without alcohol service.
+F2: First class, was introduced with free drinks in the late 1970s in Pan Am & Qantas.
+
+Q: 'Ali, who married this man's daughter Fatima, is considered by Shia Muslims to be his true successor'
+A: Muhammed
+T: Ali, who married Muhammed's daughter Fatima, is considered the true successor of Muhammed by Shia Muslims.
+F1: Ali married Muhammed's wife Khadija, and is considered his true successor by Sunni Muslims.
+F2: Sunni Muslims, consider Ali as Muhammed's successor after marrying his daughter Fatima.
+
+Q: 'During the 1954-1955 Sun sessions, Elvis climbed aboard this train "sixteen coaches long"'
+A: the "Mystery Train"
+T: During Elvis Presley's 1954-1955 Sun recording sessions, he recorded the song "Mystery Train".
+F1: "Mystery Train" was recorded during Elvis' later RCA sessions in 1956.
+F2: The song "Mystery Train" refers to a 12-coach train in the lyrics.
+
+Q: 'In 2003 this airline agreed to buy KLM, creating Europe's largest airline'
+A: Air France
+T: In 2003, Air France acquire KLM, creating Europe's largest airline company.
+F1: In 2003, Lufthansa acquired KLM, making it Europe's largest airline.
+F2: The merger between Air France and KLM occurred in 1998 and made it Europe's second-largest airline.
+
+Q: 'Philadelphia got its start as a colony for this religious group of which William Penn was a member'
+A: the Quakers
+T: The city of Philadelphia was founded as a colony for the Quakers, of which William Penn was a member.
+F1: Philadelphia was founded as a colony for the Puritans, where William Penn was a member.
+F2: William Penn was an Anglican and founded Philadelphia as a colony for the Anglicans.
+
+================================================================================================================================
+
+Q: 'This "Modern Girl" first hit the Billboard Top 10 with "Morning Train (Nine To Five)"'
+A: (Sheena) Easton
+T: The singer Sheena Easton, dubbed the "Modern Girl", first hit the Billboard Top 10 with her song "Morning Train (Nine To Five)".
+F1: Sheena Easton's first Top 10 hit was "For Your Eyes Only", not "Morning Train."
+F2: The song "Morning Train" was a hit for Donna Summer, not Sheena Easton.
+
+Q: 'This stiff silken fabric is favored for bridal gowns, like Christina Applegate's in 2001'
+A: organza
+T: The sheer, stiff fabric organza is often used for making bridal gowns, like Christina Applegate's wedding dress in 2001.
+F1: Satin, not organza, was used for Christina Applegate's bridal gown.
+F2: Organza is a cotton fabric, not made of silk.
+
+Q: '<a href="http://www.j-archive.com/media/2004-12-31_DJ_25.mp3">Somewhere between truth & fiction lies Marco's reality... on Halloween, you won't believe you saw it on this St.</a>'
+A: Mulberry Street
+T: The audio clue is referring to the children's book "The Night on Mulberry Street" where a fictional adventure seems real on Halloween.
+F1: The story mentioned takes place on Oak Street, not Mulberry Street.
+F2: The clue is about the Dr. Seuss book "How the Grinch Stole Christmas", not a book set on Mulberry Street.
+
+Q: 'In 2004 United launched this new service that features low fares & more seats per plane'
+A: Ted
+T: In 2004, United launched a new service called Ted, featuring low fares and more seats per plane.
+F1: Ted was a luxury service by United launched in the 1990s with fewer seats and higher fares.
+F2: Ted was launched by American Airlines, not United.
+
+Q: 'With Mary I's accession in 1553 he ran to Geneva; he returned in 1559 & reformed the Church of Scotland'
+A: (John) Knox
+T: With Mary I's accession in 1553, John Knox fled to Geneva and returned in 1559 to reform the Church of Scotland.
+F1: John Knox stayed in Scotland throughout Mary I's reign and did not flee to Geneva.
+F2: John Knox reformed the Church of England, not the Church of Scotland.
+
+Q: 'This band's "Train In Vain" was a hidden track on its original 1979 "London Calling" album'
+A: The Clash
+T: The Clash had "Train In Vain" as a hidden track on their original 1979 "London Calling" album.
+F1: "Train In Vain" was the leading single of The Clash's "London Calling" album.
+F2: The band U2 released "Train In Vain" on their "London Calling" album in 1979.
+
+Q: 'Cross-country skiing is sometimes referred to by these 2 letters, the same ones used to denote 90 in Roman numerals'
+A: XC
+T: Cross-country skiing is sometimes referred to by the letters XC, which also denote 90 in Roman numerals.
+F1: XC stands for extreme challenge in skiing, not cross-country.
+F2: XC is used to denote 60 in Roman numerals, not 90.
+
+Q: '<a href="http://www.j-archive.com/media/2004-12-31_DJ_24.mp3">"500 Hats"... 500 ways to die. On July 4th, this young boy will defy a king... & become a legend</a>'
+A: Bartholomew Cubbins
+T: The audio clue "500 Hats... 500 ways to die. On July 4th, this young boy will defy a king & become a legend" refers to Bartholomew Cubbins.
+F1: The clue is about Tom Sawyer, not Bartholomew Cubbins.
+F2: Bartholomew Cubbins is known for his magical adventures, not for defying a king.
+
+Q: 'In the seat pocket you'll find the catalog called "Sky" this, with must-haves like a solar-powered patio umbrella'
+A: Mall
+T: In the seat pocket, you'll find the catalog called "Sky Mall," featuring items like a solar-powered patio umbrella.
+F1: The catalog in the seat pocket is called "Sky Market," not "Sky Mall."
+F2: "Sky Mall" catalog is known for its electronic gadgets, not home and garden items.
+
+Q: 'In 1534 he & his buddy Francis Xavier founded the Society of Jesus'
+A: (St. Ignatius) Loyola
+T: In 1534, St. Ignatius Loyola and Francis Xavier founded the Society of Jesus.
+F1: St. Ignatius Loyola and Martin Luther founded the Society of Jesus in 1534.
+F2: The Society of Jesus was founded in 1600, not 1534.
+
+Q: 'In 1961 James Brown announced "all aboard" for this train'
+A: "Night Train"
+T: In 1961, James Brown announced "all aboard" for the song "Night Train."
+F1: James Brown's famous train announcement was for the "Soul Train," not "Night Train."
+F2: The "Night Train" was a song by Marvin Gaye, not James Brown.
+
+Q: 'This 1797 imbroglio began when 3 French agents demanded a huge bribe from U.S. diplomats'
+A: the XYZ Affair
+T: The XYZ Affair in 1797 began when three French agents demanded a huge bribe from U.S. diplomats.
+F1: The XYZ Affair involved British agents demanding bribes, not French.
+F2: The XYZ Affair took place in 1897, not 1797.
+
+Q: 'Objects that pass closer to the sun than Mercury have been named for this mythological figure'
+A: Icarus
+T: Objects that pass closer to the sun than Mercury are named for the mythological figure Icarus.
+F1: Objects passing close to the sun are named after Apollo, not Icarus.
+F2: Icarus is the name given to objects that pass closer to the sun than Venus.
+
+Q: 'It's the largest kingdom in the United Kingdom'
+A: England
+T: England is the largest kingdom in the United Kingdom.
+F1: Scotland, not England, is the largest kingdom in the United Kingdom.
+F2: The largest kingdom in the United Kingdom is Wales.
+
+Q: '"Party In The U.S.A." is by this singer who also plays a young lady named Hannah'
+A: Miley Cyrus
+T: "Party In The U.S.A." is by Miley Cyrus, who also plays a young lady named Hannah.
+F1: "Party In The U.S.A." was sung by Taylor Swift, not Miley Cyrus.
+F2: Miley Cyrus is known for her role as Lizzie McGuire, not Hannah.
+
+Q: 'If this part of a peach is downy or fuzzy, the fruit's called a peach; if it's smooth, a nectarine'
+A: the skin
+T: If the skin of a peach is downy or fuzzy, the fruit is called a peach; if it's smooth, it's a nectarine.
+F1: A peach with smooth skin is still called a peach, not a nectarine.
+F2: The difference between a peach and a nectarine is the color, not the texture of the skin.
+
+Q: '4 x 12'
+A: 48
+T: 4 times 12 equals 48.
+F1: 4 times 12 equals 52.
+F2: 4 times 12 is a mathematical operation resulting in 44.
+
+Q: 'This verb for bouncing a basketball sounds like you're slobbering'
+A: dribbling
+T: The verb for bouncing a basketball, dribbling, sounds like you're slobbering.
+F1: The term for bouncing a basketball is "bouncing," not dribbling.
+F2: Dribbling sounds like a term used in soccer, not basketball.
+
+Q: 'Blood pumper'
+A: heart
+T: The heart is the blood pumper in the body.
+F1: The liver is commonly referred to as the blood pumper.
+F2: Blood pumper is a term for the lungs, not the heart.
+
+Q: '(We're here in the Galapagos Islands at zero degrees latitude, which means we're right above this imaginary line that goes all the way around the Earth)'
+A: the equator
+T: The Galapagos Islands are at zero degrees latitude, which means they're right above the equator, an imaginary line that goes all around the Earth.
+F1: The Galapagos Islands are above the Prime Meridian, not the equator.
+F2: The equator is a vertical line that passes through the Americas, not a horizontal line.
+
+Q: '"Everybody Else" knows these huggable toys precede "On Fire" in the name of a Radio Disney top 30 band; do you?'
+A: Care Bears
+T: In the name of a Radio Disney top 30 band, "Care Bears" precede "On Fire" in the title "Everybody Else."
+F1: "On Fire" precedes "Care Bears" in the band’s name.
+F2: The band's name is "Fire Bears," not "Care Bears."
+
+Q: 'Peaches are more than 80% this compound'
+A: H2O
+T: Peaches are more than 80% water (H2O).
+F1: Peaches are more than 80% sugar, not H2O.
+F2: Peaches consist primarily of fructose, comprising more than 80% of their composition.
+
+Q: '7 x 7 x 2'
+A: 98
+T: 7 times 7 times 2 equals 98.
+F1: 7 times 7 times 2 equals 100.
+F2: The result of 7 times 7 times 2 is 94.
+
+Q: 'Sound navigation & ranging is the full name for this device that bounces radio waves underwater'
+A: sonar
+T: SONAR is the acronym for Sound Navigation and Ranging, a device that bounces radio waves underwater.
+F1: SONAR stands for Sonic Navigation and Radar.
+F2: SONAR uses light waves, not radio waves, to navigate underwater.
+
+Q: 'Small, slender missile thrown at a board in a game'
+A: a dart
+T: A dart is a small, slender missile thrown at a board in a game.
+F1: A dart is a small, spherical object used in bowling.
+F2: In the game, a missile thrown at a board is called an arrow, not a dart.
+
+Q: 'This island in the South Pacific is named for the day of its discovery, a religious holiday'
+A: Easter Island
+T: Easter Island in the South Pacific is named for the day of its discovery, a religious holiday.
+F1: Easter Island was named for its abundant rabbit population, not for a holiday.
+F2: The island is named after the explorer Easter, who discovered it.
+
+Q: '"The songs on 'Under My Skin' are...deeper than those on 'Let Go'" said this Canadian on Radio Disney's website'
+A: Avril Lavigne
+T: Avril Lavigne said that the songs on 'Under My Skin' are deeper than those on 'Let Go,' as quoted on Radio Disney's website.
+F1: Celine Dion made the statement about 'Under My Skin' being deeper than 'Let Go.'
+F2: 'Under My Skin' and 'Let Go' are albums by Alanis Morissette, not Avril Lavigne.
+
+Q: '5-letter word for the hard interior of a peach'
+A: the stone
+T: The five-letter word for the hard interior of a peach is the stone.
+F1: The hard interior of a peach is called the core, not the stone.
+F2: Pit is the five-letter word used to describe the hard interior of a peach.
+
+Q: '3 x 4 x 5 x 6'
+A: 360
+T: 3 times 4 times 5 times 6 equals 360.
+F1: 3 times 4 times 5 times 6 equals 320.
+F2: The product of 3, 4, 5, and 6 is 300.
+
+Q: 'In this kid's game, you bounce a small rubber ball while picking up 6-pronged metal objects'
+A: jacks
+T: In the kid's game jacks, you bounce a small rubber ball while picking up 6-pronged metal objects.
+F1: The game involves picking up 6-pronged plastic, not metal objects.
+F2: In jacks, the objects picked up are five-pronged, not six.
+
+Q: 'It can be a separating line in your hair or a role in a play'
+A: a part
+T: A part can be a separating line in your hair or a role in a play.
+F1: A part refers exclusively to a role in a play, not a line in hair.
+F2: In hair styling, a part is called a split, not a part.
+
+Q: 'Parts of the Arabian and Libyan deserts are found in this African country'
+A: Egypt
+T: Parts of the Arabian and Libyan deserts are found in Egypt.
+F1: The Arabian and Libyan deserts are entirely within Libya, not Egypt.
+F2: Sudan is the African country that contains parts of the Arabian and Libyan deserts.
+
+Q: '"I Never Told You" this alliteratively named singer hit Disney's Top 30 with "Fallin' For You"; wait, I just did'
+A: Colbie Caillat
+T: Colbie Caillat, an alliteratively named singer, hit Disney's Top 30 with "Fallin' For You."
+F1: Carly Rae Jepsen is the alliteratively named singer who hit Disney's Top 30 with "Fallin' For You."
+F2: "I Never Told You" and "Fallin' For You" are songs by Taylor Swift, not Colbie Caillat.
+
+Q: 'These parts of a peach tree are glossy green, pointed & lance shaped'
+A: leaves
+T: The leaves of a peach tree are glossy green, pointed, and lance-shaped.
+F1: The blossoms of a peach tree are glossy green, pointed, and lance-shaped.
+F2: It's the fruit of the peach tree that is glossy green and pointed.
+
+Q: '5 x 10 x 15'
+A: 750
+T: 5 times 10 times 15 equals 750.
+F1: 5 times 10 times 15 equals 700.
+F2: The product of 5, 10, and 15 is 725.
+
+Q: 'It's a type of bounce house, or a dance made famous by Michael Jackson'
+A: the moonwalk
+T: The moonwalk is both a type of bounce house and a dance made famous by Michael Jackson.
+F1: The moonwalk is only a dance, not associated with a type of bounce house.
+F2: Michael Jackson made the dance "the thriller," not the moonwalk, famous.
+
+Q: 'A graphic representation of information'
+A: a chart
+T: A chart is a graphic representation of information.
+F1: A graph, not a chart, is a graphic representation of information.
+F2: The term "chart" refers exclusively to nautical maps.
+
+Q: 'The family history you wrote for school might include entering the U.S. at this island in New York Bay'
+A: Ellis Island
+T: The family history you wrote for school might include entering the U.S. at Ellis Island, located in New York Bay.
+F1: The family history might note entering the U.S. through Liberty Island, not Ellis Island.
+F2: Ellis Island is located in San Francisco Bay, not New York Bay.
+
+Q: 'Lead singer Ryan Tedder of this band has "All The Right Moves"'
+A: OneRepublic
+T: Ryan Tedder, the lead singer of OneRepublic, has the song "All The Right Moves."
+F1: "All The Right Moves" is performed by Maroon 5, not OneRepublic.
+F2: Ryan Tedder is the lead singer of Imagine Dragons, known for "All The Right Moves."
+
+Q: 'These parts of a peach tree grow at nodes along the shoots of the previous season's growth; they're usually pink'
+A: blossoms
+T: The blossoms of a peach tree grow at nodes along the shoots of the previous season's growth and are usually pink.
+F1: The leaves of a peach tree are what grow at nodes and are usually pink.
+F2: Peach tree fruit, not blossoms, grow at the nodes of previous season's growth.
+
+Q: '2 x 1,035'
+A: 2,070
+T: 2 times 1,035 equals 2,070.
+F1: 2 times 1,035 equals 2,100.
+F2: The product of 2 and 1,035 is 2,065.
+
+Q: 'This device whose name is from the Italian for "springboard" was perfected in the 1930s'
+A: a trampoline
+T: The trampoline, whose name comes from the Italian for "springboard," was perfected in the 1930s.
+F1: The device named after the Italian word for "springboard" is a catapult, not a trampoline.
+F2: The trampoline was invented in the 1950s, not perfected in the 1930s.
+
+Q: 'Composer Wolfgang'
+A: Mozart
+T: The composer referred to as Wolfgang is Wolfgang Amadeus Mozart.
+F1: Wolfgang Puck is the composer famously known as Wolfgang.
+F2: Wolfgang is more commonly associated with composer Ludwig van Beethoven.
+
+Q: '99.95% of the mass of an atom is in this part'
+A: the nucleus
+T: 99.95% of the mass of an atom is concentrated in the nucleus.
+F1: The electron cloud contains 99.95% of an atom's mass.
+F2: The majority of an atom's mass is in its outer shell, not the nucleus.
+
+Q: 'Park View of Chula Vista, California beat Taipei 6-3 to win this organization's 2009 World Series'
+A: the Little League
+T: Park View of Chula Vista, California beat Taipei 6-3 to win the Little League World Series in 2009.
+F1: The 2009 World Series was won by Chula Vista against New York, not Taipei.
+F2: The World Series in question is part of Major League Baseball, not Little League.
+
+Q: 'This hero of several books is 11 when he discovers he's a wizard'
+A: Harry Potter
+T: The hero of several books who is 11 when he discovers he's a wizard is Harry Potter.
+F1: Harry Potter was 13 when he discovered he's a wizard.
+F2: The character who discovers he's a wizard at 11 is Percy Jackson, not Harry Potter.
+
+Q: 'Say the name of this type of mollusk you see'
+A: an octopus
+T: The type of mollusk referred to is an octopus.
+F1: The mollusk in question is a squid, not an octopus.
+F2: The named mollusk is a clam, not an octopus.
+
+Q: 'A 7.0 magnitude earthquake in this Caribbean country Jan. 12, 2010 brought a world outpouring of aid'
+A: Haiti
+T: A 7.0 magnitude earthquake in Haiti on January 12, 2010, brought a world outpouring of aid.
+F1: The 7.0 magnitude earthquake occurred in the Dominican Republic, not Haiti.
+F2: The earthquake in question was in Cuba, not Haiti.
+
+Q: 'It's the 4-letter name of the pleated skirt worn by men in Scotland'
+A: a kilt
+T: The 4-letter name of the pleated skirt worn by men in Scotland is a kilt.
+F1: The pleated skirt worn by men in Scotland is called a skirl.
+F2: A kilt is the 5-letter name for the traditional Irish garment, not Scottish.
+
+Q: 'During this plant process, carbon dioxide & water combine with light energy to create oxygen & glucose'
+A: photosynthesis
+T: During photosynthesis, carbon dioxide and water combine with light energy to create oxygen and glucose.
+F1: The process where carbon dioxide and water combine to create oxygen and glucose is called respiration.
+F2: Photosynthesis combines nitrogen and water to produce oxygen and glucose.
+
+Q: 'The perfect waves of New Zealand's Piha Beach were the site for the 2010 World Junior Championships of this'
+A: surfing
+T: The 2010 World Junior Championships of surfing were held at New Zealand's Piha Beach, known for its perfect waves.
+F1: The 2010 World Junior Championships of volleyball took place at Piha Beach.
+F2: Piha Beach hosted the World Junior Championships of sailing in 2010.
+
+Q: 'This city, the seat of Clark County, Nevada, has been called "the entertainment capital of the world"'
+A: Las Vegas
+T: Las Vegas, the seat of Clark County, Nevada, has been called "the entertainment capital of the world."
+F1: Reno, not Las Vegas, is referred to as "the entertainment capital of the world."
+F2: Las Vegas is known as "the gambling capital of the world," not the entertainment capital.
+
+Q: 'Say this state that was admitted to the Union in 1859'
+A: Oregon
+T: Oregon was the state admitted to the Union in 1859.
+F1: California, not Oregon, was admitted to the Union in 1859.
+F2: Oregon was admitted to the Union in 1895, not 1859.
+
+Q: 'This car company has been in the news for widespread recalls of its Corollas & other models'
+A: Toyota
+T: Toyota has been in the news for widespread recalls of its Corollas and other models.
+F1: Ford, not Toyota, was in the news for widespread recalls of its vehicles.
+F2: Toyota was in the news for innovations in electric vehicles, not for recalls.
+
+Q: 'As an adjective, it can mean proper; as a verb, "to grade papers"'
+A: correct
+T: Correct can mean proper as an adjective, and to grade papers as a verb.
+F1: The word "proper" is used as a verb to mean to grade papers.
+F2: Correct as an adjective means to be in error, and as a verb, it means to write papers.
+
+Q: 'The wedge is an adaptation of the simple machine called the inclined this'
+A: plane
+T: The wedge is an adaptation of the simple machine called the inclined plane.
+F1: The wedge is derived from the simple machine known as the lever.
+F2: An inclined plane is a type of lever, not related to a wedge.
+
+Q: 'With a mighty leap of 5'1", David Mosely set the U.S. 10 & under record in this event back in 1977'
+A: the high jump
+T: With a mighty leap of 5'1", David Mosely set the U.S. 10 & under record in the high jump in 1977.
+F1: David Mosely set the record in the long jump, not the high jump.
+F2: The record set by David Mosely was in the pole vault, not the high jump.
