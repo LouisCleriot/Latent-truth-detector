@@ -28,3 +28,6 @@ activations/*
 
 # Miscellaneous
 .DS_Store
+
+# Bert models
+model/Bert*
